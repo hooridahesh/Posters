@@ -7,4 +7,4 @@
 <br><br>
 :heart_eyes: 4- .....
 <br><br>
-<!--In each of these branches, there are posters of that part with a picture of those posters :grin::dancer:-->
+:warning::warning:For watching the posters, please refer to the desired branch :grin::dancer:
