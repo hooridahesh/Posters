@@ -9,9 +9,9 @@
 <br><br>
 :warning::warning:There are posters related to each folder :grin::dancer:
 
-<img width=150px length=50px src="https://s6.uupload.ir/files/800_jhd9.jpg"> <img width=150px length=50px src="https://s6.uupload.ir/files/800_jhd9.jpg">
-<img width=150px length=50px src="https://s6.uupload.ir/files/800_jhd9.jpg"> <img width=150px length=50px src="https://s6.uupload.ir/files/800_jhd9.jpg">
-<img width=150px length=50px src="https://s6.uupload.ir/files/800_jhd9.jpg">
+<img width=110px length=50px src="https://s6.uupload.ir/files/800_jhd9.jpg"> <img width=110px length=50px src="https://s6.uupload.ir/files/800_jhd9.jpg">
+<img width=110px length=50px src="https://s6.uupload.ir/files/800_jhd9.jpg"> <img width=110px length=50px src="https://s6.uupload.ir/files/800_jhd9.jpg">
+<img width=110px length=50px src="https://s6.uupload.ir/files/800_jhd9.jpg"> <img width=110px length=50px src="https://s6.uupload.ir/files/800_jhd9.jpg">
 
 ```diff
 @@ AICup of IUT @@
