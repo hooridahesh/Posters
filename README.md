@@ -19,6 +19,8 @@
 @@ AICup of IUT @@
 ```
 1-......
+<hr>
+
 ```diff
 - Computer Science Association of IUT
 ```
@@ -26,14 +28,17 @@
 <div align="center">
 <img width=700px src="https://s6.uupload.ir/files/critical_thinking_iyg4.jpg">
 </div>
+<hr>
 
 ```diff
 + Graphics Core of IUT
 ```
+<hr>
+
 ```diff
 ! Sample posters
 ```
 1- A view of the contact us poster: (This poster is made in Instagram dimensions)
 <div align="center">
-<img width=350px src="https://s6.uupload.ir/files/contact_us_gx32.jpg">
+<img width=330px src="https://s6.uupload.ir/files/contact_us_gx32.jpg">
 </div>
