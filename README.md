@@ -12,6 +12,7 @@
 <img width=110px length=50px src="https://s6.uupload.ir/files/800_jhd9.jpg"> <img width=110px length=50px src="https://s6.uupload.ir/files/800_jhd9.jpg">
 <img width=110px length=50px src="https://s6.uupload.ir/files/800_jhd9.jpg"> <img width=110px length=50px src="https://s6.uupload.ir/files/800_jhd9.jpg">
 <img width=110px length=50px src="https://s6.uupload.ir/files/800_jhd9.jpg"> <img width=110px length=50px src="https://s6.uupload.ir/files/800_jhd9.jpg">
+<img width=110px length=50px src="https://s6.uupload.ir/files/800_jhd9.jpg">
 
 ```diff
 @@ AICup of IUT @@
