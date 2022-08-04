@@ -8,11 +8,12 @@
 :heart_eyes: 4- Sample posters
 <br><br>
 :warning::warning:There are posters related to each folder :grin::dancer:
-
+<div align="center">
 <img width=110px length=50px src="https://s6.uupload.ir/files/800_jhd9.jpg"> <img width=110px length=50px src="https://s6.uupload.ir/files/800_jhd9.jpg">
 <img width=110px length=50px src="https://s6.uupload.ir/files/800_jhd9.jpg"> <img width=110px length=50px src="https://s6.uupload.ir/files/800_jhd9.jpg">
 <img width=110px length=50px src="https://s6.uupload.ir/files/800_jhd9.jpg"> <img width=110px length=50px src="https://s6.uupload.ir/files/800_jhd9.jpg">
 <img width=110px length=50px src="https://s6.uupload.ir/files/800_jhd9.jpg">
+</div>
 
 ```diff
 @@ AICup of IUT @@
@@ -34,5 +35,5 @@
 ```
 1- A view of the contact us poster: (This poster is made in Instagram dimensions)
 <div align="center">
-<img width=300px src="https://s6.uupload.ir/files/contact_us_gx32.jpg">
+<img width=350px src="https://s6.uupload.ir/files/contact_us_gx32.jpg">
 </div>
