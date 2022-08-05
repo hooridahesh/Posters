@@ -20,7 +20,7 @@
 1-......
 <br><br>
 <div align="center">
-<img width=320px src="https://s6.uupload.ir/files/10_egh0.jpg"><img width=320px src="https://s6.uupload.ir/files/10_egh0.jpg"><img width=320px src="https://s6.uupload.ir/files/10_egh0.jpg">
+<img width=280px src="https://s6.uupload.ir/files/10_egh0.jpg"><img width=280px src="https://s6.uupload.ir/files/10_egh0.jpg"><img width=280px src="https://s6.uupload.ir/files/10_egh0.jpg">
 </div>
 <br>
 
