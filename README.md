@@ -10,7 +10,7 @@
 :warning::warning:There are posters related to each folder :grin::dancer:
 
 <div align="center">
-<img width=130px src="https://s6.uupload.ir/files/800_jhd9.jpg"><img width=130px src="https://s6.uupload.ir/files/800_jhd9.jpg"><img width=130px src="https://s6.uupload.ir/files/800_jhd9.jpg"><img width=130px src="https://s6.uupload.ir/files/800_jhd9.jpg"><img width=130px src="https://s6.uupload.ir/files/800_jhd9.jpg"><img width=130px src="https://s6.uupload.ir/files/800_jhd9.jpg"><img width=130px src="https://s6.uupload.ir/files/800_jhd9.jpg">
+<img width=130px src="https://s6.uupload.ir/files/800_jhd9.jpg"><img width=130px src="https://s6.uupload.ir/files/800_jhd9.jpg"><img width=130px src="https://s6.uupload.ir/files/800_jhd9.jpg"><img width=130px src="https://s6.uupload.ir/files/800_jhd9.jpg"><img width=130px src="https://s6.uupload.ir/files/800_jhd9.jpg"><img width=130px src="https://s6.uupload.ir/files/800_jhd9.jpg">
 </div>
 <br>
 
