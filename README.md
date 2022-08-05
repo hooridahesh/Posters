@@ -33,7 +33,7 @@
 <br><br>
 </div>
 <div align="center">
-<img width=320px src="https://s6.uupload.ir/files/41502_cdm.jpg"><img width=320px src="https://s6.uupload.ir/files/41502_cdm.jpg"><img width=320px src="https://s6.uupload.ir/files/41502_cdm.jpg">
+<img width=110px src="https://s6.uupload.ir/files/12_fvg8.jpg"><img width=110px src="https://s6.uupload.ir/files/12_fvg8.jpg"><img width=110px src="https://s6.uupload.ir/files/12_fvg8.jpg"><img width=110px src="https://s6.uupload.ir/files/12_fvg8.jpg"><img width=110px src="https://s6.uupload.ir/files/12_fvg8.jpg"><img width=110px src="https://s6.uupload.ir/files/12_fvg8.jpg"><img width=110px src="https://s6.uupload.ir/files/12_fvg8.jpg">
 </div>
 <br>
 
@@ -42,7 +42,7 @@
 ```
 <br><br>
 <div align="center">
-<img width=320px src="https://s6.uupload.ir/files/41502_cdm.jpg"><img width=320px src="https://s6.uupload.ir/files/41502_cdm.jpg"><img width=320px src="https://s6.uupload.ir/files/41502_cdm.jpg">
+<img width=110px src="https://s6.uupload.ir/files/12_fvg8.jpg"><img width=110px src="https://s6.uupload.ir/files/12_fvg8.jpg"><img width=110px src="https://s6.uupload.ir/files/12_fvg8.jpg"><img width=110px src="https://s6.uupload.ir/files/12_fvg8.jpg"><img width=110px src="https://s6.uupload.ir/files/12_fvg8.jpg"><img width=110px src="https://s6.uupload.ir/files/12_fvg8.jpg"><img width=110px src="https://s6.uupload.ir/files/12_fvg8.jpg">
 </div>
 <br>
 
