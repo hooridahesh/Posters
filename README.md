@@ -7,10 +7,10 @@
 <br><br>
 :heart_eyes: 4- Sample posters
 <br><br>
-:warning::warning:There are posters related to each folder :grin::dancer:
+:warning:There are posters related to each folder :grin::dancer:
 
 <div align="center">
-<img width=130px src="https://s6.uupload.ir/files/800_jhd9.jpg"><img width=130px src="https://s6.uupload.ir/files/800_jhd9.jpg"><img width=130px src="https://s6.uupload.ir/files/800_jhd9.jpg"><img width=130px src="https://s6.uupload.ir/files/800_jhd9.jpg"><img width=130px src="https://s6.uupload.ir/files/800_jhd9.jpg"><img width=130px src="https://s6.uupload.ir/files/800_jhd9.jpg">
+<img width=130px src="https://s6.uupload.ir/files/855_1231.jpg"><img width=130px src="https://s6.uupload.ir/files/855_1231.jpg"><img width=130px src="https://s6.uupload.ir/files/855_1231.jpg"><img width=130px src="https://s6.uupload.ir/files/855_1231.jpg"><img width=130px src="https://s6.uupload.ir/files/855_1231.jpg"><img width=130px src="https://s6.uupload.ir/files/855_1231.jpg">
 </div>
 <br>
 
@@ -22,7 +22,7 @@
 1-......
 <br><br>
 <div align="center">
-<img width=110px src="https://s6.uupload.ir/files/12_fvg8.jpg"><img width=110px src="https://s6.uupload.ir/files/12_fvg8.jpg"><img width=110px src="https://s6.uupload.ir/files/12_fvg8.jpg"><img width=110px src="https://s6.uupload.ir/files/12_fvg8.jpg"><img width=110px src="https://s6.uupload.ir/files/12_fvg8.jpg"><img width=110px src="https://s6.uupload.ir/files/12_fvg8.jpg"><img width=110px src="https://s6.uupload.ir/files/12_fvg8.jpg">
+<img width=110px src="https://s6.uupload.ir/files/12_kub6.jpg"><img width=110px src="https://s6.uupload.ir/files/12_kub6.jpg"><img width=110px src="https://s6.uupload.ir/files/12_kub6.jpg"><img width=110px src="https://s6.uupload.ir/files/12_kub6.jpg"><img width=110px src="https://s6.uupload.ir/files/12_kub6.jpg"><img width=110px src="https://s6.uupload.ir/files/12_kub6.jpg"><img width=110px src="https://s6.uupload.ir/files/12_kub6.jpg">
 </div>
 <br>
 
@@ -37,7 +37,7 @@
 <br><br>
 </div>
 <div align="center">
-<img width=110px src="https://s6.uupload.ir/files/12_fvg8.jpg"><img width=110px src="https://s6.uupload.ir/files/12_fvg8.jpg"><img width=110px src="https://s6.uupload.ir/files/12_fvg8.jpg"><img width=110px src="https://s6.uupload.ir/files/12_fvg8.jpg"><img width=110px src="https://s6.uupload.ir/files/12_fvg8.jpg"><img width=110px src="https://s6.uupload.ir/files/12_fvg8.jpg"><img width=110px src="https://s6.uupload.ir/files/12_fvg8.jpg">
+<img width=110px src="https://s6.uupload.ir/files/12_kub6.jpg"><img width=110px src="https://s6.uupload.ir/files/12_kub6.jpg"><img width=110px src="https://s6.uupload.ir/files/12_kub6.jpg"><img width=110px src="https://s6.uupload.ir/files/12_kub6.jpg"><img width=110px src="https://s6.uupload.ir/files/12_kub6.jpg"><img width=110px src="https://s6.uupload.ir/files/12_kub6.jpg"><img width=110px src="https://s6.uupload.ir/files/12_kub6.jpg">
 </div>
 <br>
 
@@ -51,9 +51,9 @@
 <div align="center">
 <img width=330px src="https://s6.uupload.ir/files/contact_us_cthl.jpg">
 </div>
-<br><br>
+<br>
 <div align="center">
-<img width=110px src="https://s6.uupload.ir/files/12_fvg8.jpg"><img width=110px src="https://s6.uupload.ir/files/12_fvg8.jpg"><img width=110px src="https://s6.uupload.ir/files/12_fvg8.jpg"><img width=110px src="https://s6.uupload.ir/files/12_fvg8.jpg"><img width=110px src="https://s6.uupload.ir/files/12_fvg8.jpg"><img width=110px src="https://s6.uupload.ir/files/12_fvg8.jpg"><img width=110px src="https://s6.uupload.ir/files/12_fvg8.jpg">
+<img width=110px src="https://s6.uupload.ir/files/12_kub6.jpg"><img width=110px src="https://s6.uupload.ir/files/12_kub6.jpg"><img width=110px src="https://s6.uupload.ir/files/12_kub6.jpg"><img width=110px src="https://s6.uupload.ir/files/12_kub6.jpg"><img width=110px src="https://s6.uupload.ir/files/12_kub6.jpg"><img width=110px src="https://s6.uupload.ir/files/12_kub6.jpg"><img width=110px src="https://s6.uupload.ir/files/12_kub6.jpg">
 </div>
 <br>
 
@@ -63,7 +63,7 @@
 ```diff
 ! Graphics Core of IUT
 ```
-1- 
+1- A view of the road map posters: 
 <div align="center">
 <img width= 33% src="https://s6.uupload.ir/files/road_map1_tf4j.jpg"><img width= 33% src="https://s6.uupload.ir/files/road_map2_49tf.jpg"><img width= 33% src="https://s6.uupload.ir/files/road_map3_3wmb.jpg">
 </div>
