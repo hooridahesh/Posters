@@ -67,3 +67,14 @@
 <div align="center">
 <img width= 33% src="https://s6.uupload.ir/files/road_map1_tf4j.jpg"><img width= 33% src="https://s6.uupload.ir/files/road_map2_49tf.jpg"><img width= 33% src="https://s6.uupload.ir/files/road_map3_3wmb.jpg">
 </div>
+<p>This poster is made by:</P>
+<p>Hoori Dahesh:</p>
+<p>Email: <a href="h.dahesh.2000@gmail.com"> h.dahehs.2000@gmail.com</a></p>
+<p>Github: <a target="_blank" href="https://github.com/hooridahesh">hooridahesh</a></P> 
+<br>
+<p>Diba Mirshafiei:</p>
+<p>Email: <a href="Dibaaamir80@gmail.com"> Dibaaamir80@gmail.com</a></p>
+<p>Github: <a target="_blank" href="https://github.com/dibaaamir">dibaaamir</a></P>
+
+
+
