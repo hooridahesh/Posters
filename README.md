@@ -19,7 +19,7 @@
 ```diff
 @@ AICup of IUT @@
 ```
-1-......
+#### 1-......
 <br><br>
 <div align="center">
 <img width=110px src="https://s6.uupload.ir/files/12_kub6.jpg"><img width=110px src="https://s6.uupload.ir/files/12_kub6.jpg"><img width=110px src="https://s6.uupload.ir/files/12_kub6.jpg"><img width=110px src="https://s6.uupload.ir/files/12_kub6.jpg"><img width=110px src="https://s6.uupload.ir/files/12_kub6.jpg"><img width=110px src="https://s6.uupload.ir/files/12_kub6.jpg"><img width=110px src="https://s6.uupload.ir/files/12_kub6.jpg">
@@ -31,7 +31,7 @@
 ```diff
 - Computer Science Association of IUT
 ```
-1- A view of the critical thinking poster:
+#### 1- A view of the critical thinking poster:
 <div align="center">
 <img width=700px src="https://s6.uupload.ir/files/critical_thinking_d89s.jpg">
 <br><br>
@@ -47,7 +47,7 @@
 ```diff
 + Sample posters
 ```
-1- A view of the contact us poster: (This poster is made in Instagram dimensions)
+#### 1- A view of the contact us poster: (This poster is made in Instagram dimensions)
 <div align="center">
 <img width=330px src="https://s6.uupload.ir/files/contact_us_cthl.jpg">
 </div>
@@ -63,17 +63,17 @@
 ```diff
 ! Graphics Core of IUT
 ```
-1- A view of the road map posters: 
+#### 1- A view of the road map posters: 
 <div align="center">
 <img width= 33% src="https://s6.uupload.ir/files/road_map1_tf4j.jpg"><img width= 33% src="https://s6.uupload.ir/files/road_map2_49tf.jpg"><img width= 33% src="https://s6.uupload.ir/files/road_map3_3wmb.jpg">
 </div>
-<p>This poster is made by:</P>
-<p>Hoori Dahesh:</p>
-<p>Email:</p>
-<p>Github: <a target="_blank" href="https://github.com/hooridahesh">hooridahesh</a></P> 
-<p>Diba Mirshafiei:</p>
-<p>Email: </p>
-<p>Github: <a target="_blank" href="https://github.com/dibaaamir">dibaaamir</a></P>
 
+#### This poster is made by:
+**Hoori Dahesh :**<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Email: h.dahesh.2000@gmail.com <br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Github: <a href="https://github.com/hooridahesh">hooridahesh</a><br />      
+**Diba Mirshafiei:** <br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Email: Dibaaamir80@gmail.com<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Github: <a href="https://github.com/dibaaamir">dibaaamir</a>
 
 
