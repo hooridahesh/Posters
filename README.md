@@ -3,9 +3,9 @@
 <br><br>
 :dizzy: 2- Computer Science Association of IUT
 <br><br>
-:milky_way: 3- Graphics Core of IUT
+:milky_way: 3- Sample posters
 <br><br>
-:heart_eyes: 4- Sample posters
+:heart_eyes: 4- Graphics Core of IUT
 <br><br>
 :warning:There are posters related to each folder :grin::dancer:
 
