@@ -7,7 +7,7 @@
 <br><br>
 ✨4- Graphics Core of IUT
 <br><br>
-⚠There are posters related to each folder :)
+❗There are posters related to each folder :)
 
 <div align="center">
 <img width=130px src="https://s6.uupload.ir/files/855_1231.jpg"><img width=130px src="https://s6.uupload.ir/files/855_1231.jpg"><img width=130px src="https://s6.uupload.ir/files/855_1231.jpg"><img width=130px src="https://s6.uupload.ir/files/855_1231.jpg"><img width=130px src="https://s6.uupload.ir/files/855_1231.jpg"><img width=130px src="https://s6.uupload.ir/files/855_1231.jpg">
