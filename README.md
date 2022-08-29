@@ -1,13 +1,13 @@
 ### In this repository, we have 4 folders named:
-:collision: 1- AICup of IUT
+✨1- AICup of IUT
 <br><br>
-:dizzy: 2- Computer Science Association of IUT
+✨2- Computer Science Association of IUT
 <br><br>
-:milky_way: 3- Sample posters
+✨3- Sample posters
 <br><br>
-:heart_eyes: 4- Graphics Core of IUT
+✨4- Graphics Core of IUT
 <br><br>
-:warning:There are posters related to each folder :grin::dancer:
+⚠There are posters related to each folder 😁
 
 <div align="center">
 <img width=130px src="https://s6.uupload.ir/files/855_1231.jpg"><img width=130px src="https://s6.uupload.ir/files/855_1231.jpg"><img width=130px src="https://s6.uupload.ir/files/855_1231.jpg"><img width=130px src="https://s6.uupload.ir/files/855_1231.jpg"><img width=130px src="https://s6.uupload.ir/files/855_1231.jpg"><img width=130px src="https://s6.uupload.ir/files/855_1231.jpg">
