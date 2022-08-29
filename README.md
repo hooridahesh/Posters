@@ -7,7 +7,7 @@
 <br><br>
 ✨4- Graphics Core of IUT
 <br><br>
-⚠There are posters related to each folder 😁
+⚠There are posters related to each folder :)
 
 <div align="center">
 <img width=130px src="https://s6.uupload.ir/files/855_1231.jpg"><img width=130px src="https://s6.uupload.ir/files/855_1231.jpg"><img width=130px src="https://s6.uupload.ir/files/855_1231.jpg"><img width=130px src="https://s6.uupload.ir/files/855_1231.jpg"><img width=130px src="https://s6.uupload.ir/files/855_1231.jpg"><img width=130px src="https://s6.uupload.ir/files/855_1231.jpg">
@@ -63,7 +63,8 @@
 ```diff
 ! Graphics Core of IUT
 ```
-#### 1- A view of the road map posters: 
+#### 1- A view of the road map posters: (This poster is composed of three posters)
+✔**This was the first poster we made and this poster is a road map for those who want to work with graphics software**
 <div align="center">
 <img width= 33% src="https://s6.uupload.ir/files/road_map1_tf4j.jpg"><img width= 33% src="https://s6.uupload.ir/files/road_map2_49tf.jpg"><img width= 33% src="https://s6.uupload.ir/files/road_map3_3wmb.jpg">
 </div>
