@@ -19,8 +19,11 @@
 ```diff
 @@ AICup of IUT @@
 ```
-#### 1-......
+#### 1- A view of the awards poster:
+<div align="center">
+<img width=712px src="https://s6.uupload.ir/files/awards_8uk.jpg">
 <br><br>
+</div>
 <div align="center">
 <img width=110px src="https://s6.uupload.ir/files/12_kub6.jpg"><img width=110px src="https://s6.uupload.ir/files/12_kub6.jpg"><img width=110px src="https://s6.uupload.ir/files/12_kub6.jpg"><img width=110px src="https://s6.uupload.ir/files/12_kub6.jpg"><img width=110px src="https://s6.uupload.ir/files/12_kub6.jpg"><img width=110px src="https://s6.uupload.ir/files/12_kub6.jpg"><img width=110px src="https://s6.uupload.ir/files/12_kub6.jpg">
 </div>
