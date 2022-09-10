@@ -9,9 +9,9 @@
 <br><br>
 ❗There are posters related to each folder :)
 
-<div align="center">
+<!--<div align="center">
 <img width=130px src="https://s6.uupload.ir/files/855_1231.jpg"><img width=130px src="https://s6.uupload.ir/files/855_1231.jpg"><img width=130px src="https://s6.uupload.ir/files/855_1231.jpg"><img width=130px src="https://s6.uupload.ir/files/855_1231.jpg"><img width=130px src="https://s6.uupload.ir/files/855_1231.jpg"><img width=130px src="https://s6.uupload.ir/files/855_1231.jpg">
-</div>
+</div>-->
 <br>
 
 <!--                             AICup of IUT                                     -->
@@ -24,8 +24,8 @@
 <img width=712px src="https://s6.uupload.ir/files/awards_8uk.jpg">
 <br><br>
 </div>
-<div align="center">
-<img width=110px src="https://s6.uupload.ir/files/12_kub6.jpg"><img width=110px src="https://s6.uupload.ir/files/12_kub6.jpg"><img width=110px src="https://s6.uupload.ir/files/12_kub6.jpg"><img width=110px src="https://s6.uupload.ir/files/12_kub6.jpg"><img width=110px src="https://s6.uupload.ir/files/12_kub6.jpg"><img width=110px src="https://s6.uupload.ir/files/12_kub6.jpg"><img width=110px src="https://s6.uupload.ir/files/12_kub6.jpg">
+<!--<div align="center">
+<img width=110px src="https://s6.uupload.ir/files/12_kub6.jpg"><img width=110px src="https://s6.uupload.ir/files/12_kub6.jpg"><img width=110px src="https://s6.uupload.ir/files/12_kub6.jpg"><img width=110px src="https://s6.uupload.ir/files/12_kub6.jpg"><img width=110px src="https://s6.uupload.ir/files/12_kub6.jpg"><img width=110px src="https://s6.uupload.ir/files/12_kub6.jpg"><img width=110px src="https://s6.uupload.ir/files/12_kub6.jpg">-->
 </div>
 <br>
 
@@ -39,8 +39,8 @@
 <img width=700px src="https://s6.uupload.ir/files/critical_thinking_d89s.jpg">
 <br><br>
 </div>
-<div align="center">
-<img width=110px src="https://s6.uupload.ir/files/12_kub6.jpg"><img width=110px src="https://s6.uupload.ir/files/12_kub6.jpg"><img width=110px src="https://s6.uupload.ir/files/12_kub6.jpg"><img width=110px src="https://s6.uupload.ir/files/12_kub6.jpg"><img width=110px src="https://s6.uupload.ir/files/12_kub6.jpg"><img width=110px src="https://s6.uupload.ir/files/12_kub6.jpg"><img width=110px src="https://s6.uupload.ir/files/12_kub6.jpg">
+<!--<div align="center">
+<img width=110px src="https://s6.uupload.ir/files/12_kub6.jpg"><img width=110px src="https://s6.uupload.ir/files/12_kub6.jpg"><img width=110px src="https://s6.uupload.ir/files/12_kub6.jpg"><img width=110px src="https://s6.uupload.ir/files/12_kub6.jpg"><img width=110px src="https://s6.uupload.ir/files/12_kub6.jpg"><img width=110px src="https://s6.uupload.ir/files/12_kub6.jpg"><img width=110px src="https://s6.uupload.ir/files/12_kub6.jpg">-->
 </div>
 <br>
 
@@ -55,8 +55,8 @@
 <img width=330px src="https://s6.uupload.ir/files/contact_us_cthl.jpg">
 </div>
 <br>
-<div align="center">
-<img width=110px src="https://s6.uupload.ir/files/12_kub6.jpg"><img width=110px src="https://s6.uupload.ir/files/12_kub6.jpg"><img width=110px src="https://s6.uupload.ir/files/12_kub6.jpg"><img width=110px src="https://s6.uupload.ir/files/12_kub6.jpg"><img width=110px src="https://s6.uupload.ir/files/12_kub6.jpg"><img width=110px src="https://s6.uupload.ir/files/12_kub6.jpg"><img width=110px src="https://s6.uupload.ir/files/12_kub6.jpg">
+<!--<div align="center">
+<img width=110px src="https://s6.uupload.ir/files/12_kub6.jpg"><img width=110px src="https://s6.uupload.ir/files/12_kub6.jpg"><img width=110px src="https://s6.uupload.ir/files/12_kub6.jpg"><img width=110px src="https://s6.uupload.ir/files/12_kub6.jpg"><img width=110px src="https://s6.uupload.ir/files/12_kub6.jpg"><img width=110px src="https://s6.uupload.ir/files/12_kub6.jpg"><img width=110px src="https://s6.uupload.ir/files/12_kub6.jpg">-->
 </div>
 <br>
 
