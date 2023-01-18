@@ -22,6 +22,16 @@
 #### 1- A view of the awards poster:
 <div align="center">
 <img width=712px src="https://s6.uupload.ir/files/awards_8uk.jpg">
+</div>
+
+#### 3- A view of the poster of the top teams:
+<div align="center">
+<img width=712px src="https://s2.uupload.ir/files/3-top_teams_yt3.jpg">
+</div>
+
+#### 4- A view of the poster of the top teams (this poster is a sample poster):
+<div align="center">
+<img width=712px src="https://s2.uupload.ir/files/4-sample_poster_for_top_teams_401s.jpg">
 <br><br>
 </div>
 <!--<div align="center">
@@ -37,6 +47,12 @@
 #### 1- A view of the critical thinking poster:
 <div align="center">
 <img width=700px src="https://s6.uupload.ir/files/critical_thinking_d89s.jpg">
+</div>
+
+#### 2- A view of the Big Data poster:
+<div align="center">
+<img width=700px src="https://s2.uupload.ir/files/big_data_yn6k.jpg">
+
 <br><br>
 </div>
 <!--<div align="center">
