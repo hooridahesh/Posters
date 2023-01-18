@@ -65,7 +65,7 @@
 
 #### 2- A view of the Big Data poster:
 <div align="center">
-<img width=300px src="https://s2.uupload.ir/files/big_data_kbfb.jpg">
+<img width=700px src="https://s2.uupload.ir/files/big_data_cwz6.jpg">
 </div>
 <!--<div align="center">
 <img width=110px src="https://s6.uupload.ir/files/12_kub6.jpg"><img width=110px src="https://s6.uupload.ir/files/12_kub6.jpg"><img width=110px src="https://s6.uupload.ir/files/12_kub6.jpg"><img width=110px src="https://s6.uupload.ir/files/12_kub6.jpg"><img width=110px src="https://s6.uupload.ir/files/12_kub6.jpg"><img width=110px src="https://s6.uupload.ir/files/12_kub6.jpg"><img width=110px src="https://s6.uupload.ir/files/12_kub6.jpg">-->
