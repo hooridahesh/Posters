@@ -33,10 +33,10 @@
 ✔Final posters (These posters are made from the basic template and a little change has been made to them):
 <br><br>
 <div align="center">
-<img width=550px src="https://s2.uupload.ir/files/2.1-poster_of_tutorial_workshops_fyb.jpg">
-<img width=550px src="https://s2.uupload.ir/files/2.2-poster_of_tutorial_workshops_j7ff.jpg">
-<img width=550px src="https://s2.uupload.ir/files/2.3-poster_of_tutorial_workshops_xbz0.jpg">
+<img width=500px src="https://s2.uupload.ir/files/2.1-poster_of_tutorial_workshops_fyb.jpg">
+<img width=500px src="https://s2.uupload.ir/files/2.2-poster_of_tutorial_workshops_j7ff.jpg">
 </div>
+<img width=500px src="https://s2.uupload.ir/files/2.3-poster_of_tutorial_workshops_xbz0.jpg">
 
 #### 3- A view of the poster of the top teams:
 <div align="center">
