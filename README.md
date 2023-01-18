@@ -35,8 +35,8 @@
 <div align="center">
 <img width=500px src="https://s2.uupload.ir/files/2.1-poster_of_tutorial_workshops_fyb.jpg">
 <img width=500px src="https://s2.uupload.ir/files/2.2-poster_of_tutorial_workshops_j7ff.jpg">
-</div>
 <img width=500px src="https://s2.uupload.ir/files/2.3-poster_of_tutorial_workshops_xbz0.jpg">
+</div>
 
 #### 3- A view of the poster of the top teams:
 <div align="center">
@@ -65,7 +65,7 @@
 
 #### 2- A view of the Big Data poster:
 <div align="center">
-<img width=700px src="https://s2.uupload.ir/files/big_data_yn6k.jpg">
+<img width=700px src="https://s2.uupload.ir/files/big_data_kbfb.jpg">
 
 <br><br>
 </div>
